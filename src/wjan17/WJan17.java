@@ -17,6 +17,9 @@ public class WJan17 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("Hello Github World!");
+        
+        GameOfWar theGame = new GameOfWar();
+        theGame.playGame();
     }
     
 }
